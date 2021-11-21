@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "basic_rf.h": "c",
+        "hal_types.h": "c"
+    }
+}
